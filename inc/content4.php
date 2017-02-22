@@ -21,15 +21,18 @@ color:#cdcdcd !important;}
                         <li><a href="../lish/1.php"><strong>هتف الشعب ونادى</strong></a></li>
                         <li><a href="../lish/2.php"><strong>غادة العرب</strong></a></li>
                         <li><a href="../lish/3.php" ><strong>أرض الهوى  وأرض البطولة</strong></a></li>
-                        
+                        <li><a href="../lish/7.php" ><strong> يا طيور</strong></a></li>
+                        <li><a href="../lish/9.php" ><strong> الفؤاد الطليق</strong></a></li>
+                        <li><a href="../lish/11.php" ><strong> الشيب</strong></a></li>
 						</ul>
 						</div>
 		<div class="col-sm-3 col-md-6 col-lg-3">
 		<ul id="o2">
 		                <li><a href="../lish/4.php"><strong>زمان يمشي على قفاه</strong></a></li>
-						<li><a href="../lish/5.php" ><strong>المعلم والتلميذات</strong></a></li>
+						            <li><a href="../lish/5.php" ><strong>المعلم والتلميذات</strong></a></li>
                         <li><a href="../lish/6.php"><strong>هدية أم</strong></a></li>
-                       
+                        <li><a href="../lish/8.php"><strong>الحي الذاوي</strong></a></li>
+                        <li><a href="../lish/10.php"><strong> البيت الموحش</strong></a></li>
 						</ul>
                 </div>
 				 <div class="col-sm-3 col-md-6 col-lg-3"></div>
